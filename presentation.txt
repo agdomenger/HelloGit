@@ -5,3 +5,4 @@ sexe: feminin
 taille: 1m73
 couleur: rouge
 naissance: pessac
+film: footlose
