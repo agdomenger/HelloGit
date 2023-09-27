@@ -3,3 +3,5 @@ prenom: Agathe
 âge: 21
 sexe: feminin 
 taille: 1m73
+couleur: rouge
+naissance: pessac
